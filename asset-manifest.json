@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.b2336ca5.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.f285c494.js",
+    "static/media/speech-bubble-cloud-quotes-paper-style-text-input-yellow-background_567288-1084.jpg": "/goit-react-hw-04-feedback/static/media/speech-bubble-cloud-quotes-paper-style-text-input-yellow-background_567288-1084.bf19530b4acfb6275e25.jpg",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.b2336ca5.css.map": "/goit-react-hw-04-feedback/static/css/main.b2336ca5.css.map",
+    "main.f285c494.js.map": "/goit-react-hw-04-feedback/static/js/main.f285c494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2336ca5.css",
+    "static/js/main.f285c494.js"
+  ]
+}
